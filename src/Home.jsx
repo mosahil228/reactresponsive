@@ -67,7 +67,7 @@ export default class SimpleSlider extends Component {
 
         <div className="container">
           <div className="logo flex justify-center align-items">
-            <img src={logo} />
+            <img src={logo} alt="logos" />
           </div>
           <div className="text flex justify-center align-items">
                 <strong >
