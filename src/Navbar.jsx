@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className={showM ? " navbar nav-list" : "navbar h-nav "}>
           <ul className={showM ? "nav-list ": "nav-list v-class "}>
             
-              <img src={logo} />
+              <img src={logo} alt="mainlogo" />
             
 
             <NavLink exact ActiveClassName="active " to="/">
