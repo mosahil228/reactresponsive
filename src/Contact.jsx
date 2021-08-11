@@ -99,6 +99,7 @@ const Contact = () => {
         <div class="map">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14284.401287448818!2d80.32537642035815!3d26.484714538888376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c389195c3ec0b%3A0xdcb06408147a2819!2sGwai%2C%20Gwaltoli%2C%20Khalasi%20Line%2C%20Kanpur%2C%20Uttar%20Pradesh%20208001!5e0!3m2!1sen!2sin!4v1617527714472!5m2!1sen!2sin"
+            title="This is a unique title"
             style={myStyle2}
             allowfullscreen=""
             loading="lazy"
