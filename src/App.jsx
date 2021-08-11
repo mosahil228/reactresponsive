@@ -21,7 +21,7 @@ const App = () => {
   return (
       <>
       <Navbar />
-      <a class="goToTop" href="#"><i class="fa fa-arrow-up"></i></a>
+      <a class="goToTop" href="#top"><i class="fa fa-arrow-up"></i></a>
      
       
       <Switch>
