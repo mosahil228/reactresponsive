@@ -41,7 +41,7 @@ const Navbar = () => {
             </div>
           </ul>
           <div className="burger  ">
-          <a href='#' onClick={() => setShowM(!showM)}>
+          <a href='#burger' onClick={() => setShowM(!showM)}>
             <div className="line"></div>
             <div className="line"></div>
             <div className="line"></div>
